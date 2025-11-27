@@ -1,18 +1,16 @@
 ![Banner de Boas-Vindas](http://nexionpro.com.br/wp-content/uploads/2025/11/LinkedIn-cover-4-scaled.png)
 
-## 🔎 Sobre mim
+## ✳️ Sobre mim
 
-Olá. Sou o **Victor Boens**.
+Olá, seja bem-vindo(a) ao meu perfil! Me chamo Victor.
 
-Sou um profissional em **transição de carreira** dedicado à **Quality Assurance (QA)**, com uma forte base em **UI/UX** (User Interface).
+Sou um profissional em transição de carreira para Quality Assurance (QA), com foco em testes manuais, automação de testes e uma forte base em UI/UX (User Interface e User Experience).
 
-Minha experiência anterior me permite avaliar a qualidade de software não apenas pela ausência de *bugs*, mas pela **excelência na experiência do usuário** e **usabilidade**.
-
-Meu objetivo é transformar a teoria de testes em **práticas robustas de automação** e **documentação**, garantindo a entrega de produtos de alta qualidade.
+Minha experiência anterior me permite avaliar a qualidade de um software não apenas pela ausência de bugs, mas também pela excelência na experiência do usuário e pela usabilidade. Busco sempre garantir que cada produto seja funcional, intuitivo e agradável de utilizar.
 
 ---
 
-## 🛠️ Stacks e focos principais
+## ✳️ Stacks e focos principais
 
 Aqui estão as tecnologias e conceitos que estou focando no meu desenvolvimento em QA, representados pela minha cor de destaque:
 
@@ -24,7 +22,7 @@ Aqui estão as tecnologias e conceitos que estou focando no meu desenvolvimento 
 
 ---
 
-## 🔗 Conecte-se comigo
+## ✳️ Conecte-se comigo
 
 <p>
     <a href="https://www.linkedin.com/in/victor-boens/" target="_blank">
