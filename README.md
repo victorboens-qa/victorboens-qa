@@ -8,7 +8,6 @@ Sou um profissional em transição de carreira para Quality Assurance (QA), com 
 
 Minha experiência anterior me permite avaliar a qualidade de um software não apenas pela ausência de bugs, mas também pela excelência na experiência do usuário e pela usabilidade. Busco sempre garantir que cada produto seja funcional, intuitivo e agradável de utilizar.
 
----
 
 ## ✳️ Stacks e focos principais
 
@@ -20,7 +19,6 @@ Aqui estão as tecnologias e conceitos que estou focando no meu desenvolvimento 
 
 ![Animação Git e QA](http://nexionpro.com.br/wp-content/uploads/2025/11/git-animation-2.gif)
 
----
 
 ## ✳️ Conecte-se comigo
 
