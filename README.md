@@ -8,10 +8,12 @@ Sou um profissional em transição de carreira para Quality Assurance (QA), com 
 
 Minha experiência anterior me permite avaliar a qualidade de um software não apenas pela ausência de bugs, mas também pela excelência na experiência do usuário e pela usabilidade. Busco sempre garantir que cada produto seja funcional, intuitivo e agradável de utilizar.
 
+Aqui vai ser o espaço para documentar toda a minha jornada como QA.
+
 
 ## ✳️ Stacks e focos principais
 
-Aqui estão as tecnologias e conceitos que estou focando no meu desenvolvimento em QA, representados pela minha cor de destaque:
+Aqui estão as tecnologias e conceitos que estou focando no meu desenvolvimento em QA:
 
 <p>
  <img src="https://img.shields.io/badge/Cypress-7DD880?style=flat-square&logo=cypress&logoColor=black" alt="Cypress"> <img src="https://img.shields.io/badge/Postman-7DD880?style=flat-square&logo=postman&logoColor=black" alt="Postman"> <img src="https://img.shields.io/badge/JavaScript-7DD880?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Git-7DD880?style=flat-square&logo=git&logoColor=black" alt="Git"> <img src="https://img.shields.io/badge/GitHub-7DD880?style=flat-square&logo=github&logoColor=black" alt="GitHub"> <img src="https://img.shields.io/badge/Scrum-7DD880?style=flat-square&logo=scrum&logoColor=black" alt="Scrum"> <img src="https://img.shields.io/badge/Kanban-7DD880?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJibGFjayIgZD0iTTQ0OCAwSDY0QzI4LjY1IDAgMCAyOC42NSAwIDY0djM4NGMwIDM1LjM1IDI4LjY1IDY0IDY0IDY0aDM4NGMzNS4zNSAwIDY0LTI4LjY1IDY0LTY0VjY0YzAtMzUuMzUtMjguNjUtNjQtNjQtNjR6TTQ0OCA0NDhINGYyYy0xNzIuODUgNjguMDcgMjEzLjIzLTM5LjcyLDI4OC0xNjJjNzQuNzctMTIzLjI4LTIyOS4xNS0yNTguOTMtMjg4LTg0LjA2VjQ0OHptMTI4IDY0aDk2VjI1Nmg2NHYyNTZoOTZWNjRoLTM1MnY0NDh6Ii8+PC9zdmc+" alt="Kanban"> <img src="https://img.shields.io/badge/Testes%20Manuais-7DD880?style=flat-square" alt="Testes Manuais"> <img src="https://img.shields.io/badge/Testes%20de%20API-7DD880?style=flat-square" alt="Testes de API">
