@@ -1,37 +1,44 @@
-![Banner de Boas-Vindas](http://nexionpro.com.br/wp-content/uploads/2025/11/LinkedIn-cover-4-scaled.png)
+![Banner de Boas-Vindas](https://victorboens.pro/wp-content/uploads/2026/01/capa-linkedin-scaled.png)
 
-## ✳️ Sobre mim
+## 🟤 Quality Assurance Engineer
 
-Olá, seja bem-vindo(a) ao meu perfil! Me chamo Victor.
+[cite_start]QA Engineer focado em automação e qualidade de produto, unindo o rigor técnico dos testes à visão estratégica consolidada em anos de atuação como UI/UX Designer em mercados competitivos como Brasil, Portugal e Israel[cite: 17, 23, 24]. Entendo que a alta performance de um software depende da confiança técnica e da ausência de fricção na jornada do usuário.
 
-Sou um profissional em transição de carreira para Quality Assurance (QA), com foco em testes manuais, automação de testes e uma forte base em UI/UX (User Interface e User Experience).
+[cite_start]Utilizo meu background em design para elevar o padrão dos testes: não apenas valido se o código funciona, mas asseguro que a interface seja consistente, acessível e fiel aos objetivos de negócio[cite: 20, 23]. [cite_start]Minha atuação é sustentada por um domínio em lógica de programação, automação com Cypress e segurança cibernética[cite: 11, 13, 15].
 
-Minha experiência anterior me permite avaliar a qualidade de um software não apenas pela ausência de bugs, mas também pela excelência na experiência do usuário e pela usabilidade. Busco sempre garantir que cada produto seja funcional, intuitivo e agradável de utilizar.
+## 🟤 Stacks e Focos Principais
 
-Aqui vai ser o espaço para documentar toda a minha jornada como QA.
-
-
-## ✳️ Stacks e focos principais
-
-Aqui estão as tecnologias e conceitos que estou focando no meu desenvolvimento em QA:
+Tecnologias e conceitos que compõem minha stack técnica atual:
 
 <p>
- <img src="https://img.shields.io/badge/Cypress-7DD880?style=flat-square&logo=cypress&logoColor=black" alt="Cypress"> <img src="https://img.shields.io/badge/Postman-7DD880?style=flat-square&logo=postman&logoColor=black" alt="Postman"> <img src="https://img.shields.io/badge/JavaScript-7DD880?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Git-7DD880?style=flat-square&logo=git&logoColor=black" alt="Git"> <img src="https://img.shields.io/badge/GitHub-7DD880?style=flat-square&logo=github&logoColor=black" alt="GitHub"> <img src="https://img.shields.io/badge/Scrum-7DD880?style=flat-square&logo=scrum&logoColor=black" alt="Scrum"> <img src="https://img.shields.io/badge/Kanban-7DD880?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJibGFjayIgZD0iTTQ0OCAwSDY0QzI4LjY1IDAgMCAyOC42NSAwIDY0djM4NGMwIDM1LjM1IDI4LjY1IDY0IDY0IDY0aDM4NGMzNS4zNSAwIDY0LTI4LjY1IDY0LTY0VjY0YzAtMzUuMzUtMjguNjUtNjQtNjQtNjR6TTQ0OCA0NDhINGYyYy0xNzIuODUgNjguMDcgMjEzLjIzLTM5LjcyLDI4OC0xNjJjNzQuNzctMTIzLjI4LTIyOS4xNS0yNTguOTMtMjg4LTg0LjA2VjQ0OHptMTI4IDY0aDk2VjI1Nmg2NHYyNTZoOTZWNjRoLTM1MnY0NDh6Ii8+PC9zdmc+" alt="Kanban"> <img src="https://img.shields.io/badge/Testes%20Manuais-7DD880?style=flat-square" alt="Testes Manuais"> <img src="https://img.shields.io/badge/Testes%20de%20API-7DD880?style=flat-square" alt="Testes de API">
+  <img src="https://img.shields.io/badge/Cypress-A47B5C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"> 
+  <img src="https://img.shields.io/badge/JavaScript-A47B5C?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> 
+  <img src="https://img.shields.io/badge/Postman-A47B5C?style=flat-square&logo=postman&logoColor=white" alt="Postman"> 
+  <img src="https://img.shields.io/badge/Git-A47B5C?style=flat-square&logo=git&logoColor=white" alt="Git"> 
+  <img src="https://img.shields.io/badge/GitHub-A47B5C?style=flat-square&logo=github&logoColor=white" alt="GitHub"> 
+  <img src="https://img.shields.io/badge/CI%2FCD-A47B5C?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD">
+  <img src="https://img.shields.io/badge/Scrum-A47B5C?style=flat-square&logo=scrum&logoColor=white" alt="Scrum"> 
+  <img src="https://img.shields.io/badge/Manual_Testing-A47B5C?style=flat-square" alt="Manual Testing">
+  <img src="https://img.shields.io/badge/WCAG_Accessibility-A47B5C?style=flat-square" alt="Accessibility">
 </p>
 
-![Animação Git e QA](http://nexionpro.com.br/wp-content/uploads/2025/11/git-animation-2.gif)
+## 🟤 Frentes de Atuação
 
+* [cite_start]**QA & Automação:** Escrita de suítes de testes em Cypress para garantir estabilidade funcional e cobertura de regressão[cite: 8, 13].
+* **Pipeline Integration:** Testes automatizados integrados ao fluxo de deploy, garantindo validação rigorosa em cada entrega.
+* [cite_start]**User-Centric Testing:** Aplicação de heurísticas de UX e padrões de acessibilidade (WCAG) como critérios de aceitação no processo de QA[cite: 23, 26].
+* [cite_start]**Dev-to-QA Bridge:** Facilitação da comunicação entre design e desenvolvimento, antecipando erros de lógica ainda na fase de prototipagem[cite: 22, 23].
 
-## ✳️ Conecte-se comigo
+## 🟤 Conecte-se comigo
 
 <p>
     <a href="https://www.linkedin.com/in/victor-boens/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-7DD880?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-A47B5C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:victor.boens@icloud.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Email-7DD880?style=for-the-badge&logo=gmail&logoColor=black" alt="Email">
+        <img src="https://img.shields.io/badge/-Email-A47B5C?style=for-the-badge&logo=icloud&logoColor=white" alt="Email">
     </a>
     <a href="https://github.com/victorboens-qa" target="_blank">
-        <img src="https://img.shields.io/badge/-GitHub-7DD880?style=for-the-badge&logo=github&logoColor=black" alt="GitHub">
+        <img src="https://img.shields.io/badge/-GitHub-A47B5C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
 </p>
