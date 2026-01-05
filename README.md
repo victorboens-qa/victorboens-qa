@@ -2,9 +2,9 @@
 
 ## 🟤 Quality Assurance Engineer
 
-[cite_start]QA Engineer focado em automação e qualidade de produto, unindo o rigor técnico dos testes à visão estratégica consolidada em anos de atuação como UI/UX Designer em mercados competitivos como Brasil, Portugal e Israel[cite: 17, 23, 24]. Entendo que a alta performance de um software depende da confiança técnica e da ausência de fricção na jornada do usuário.
+QA Engineer focado em automação e qualidade de produto, unindo o rigor técnico dos testes à visão estratégica consolidada em anos de atuação como UI/UX Designer em mercados competitivos como Brasil, Portugal e Israel. Entendo que a alta performance de um software depende da confiança técnica e da ausência de fricção na jornada do usuário.
 
-[cite_start]Utilizo meu background em design para elevar o padrão dos testes: não apenas valido se o código funciona, mas asseguro que a interface seja consistente, acessível e fiel aos objetivos de negócio[cite: 20, 23]. [cite_start]Minha atuação é sustentada por um domínio em lógica de programação, automação com Cypress e segurança cibernética[cite: 11, 13, 15].
+Utilizo meu background em design para elevar o padrão dos testes: não apenas valido se o código funciona, mas asseguro que a interface seja consistente, acessível e fiel aos objetivos de negócio. Minha atuação é sustentada por um domínio em lógica de programação, automação com Cypress e segurança cibernética.
 
 ## 🟤 Stacks e Focos Principais
 
@@ -24,10 +24,10 @@ Tecnologias e conceitos que compõem minha stack técnica atual:
 
 ## 🟤 Frentes de Atuação
 
-* [cite_start]**QA & Automação:** Escrita de suítes de testes em Cypress para garantir estabilidade funcional e cobertura de regressão[cite: 8, 13].
+* **QA & Automação:** Escrita de suítes de testes em Cypress para garantir estabilidade funcional e cobertura de regressão.
 * **Pipeline Integration:** Testes automatizados integrados ao fluxo de deploy, garantindo validação rigorosa em cada entrega.
-* [cite_start]**User-Centric Testing:** Aplicação de heurísticas de UX e padrões de acessibilidade (WCAG) como critérios de aceitação no processo de QA[cite: 23, 26].
-* [cite_start]**Dev-to-QA Bridge:** Facilitação da comunicação entre design e desenvolvimento, antecipando erros de lógica ainda na fase de prototipagem[cite: 22, 23].
+* **User-Centric Testing:** Aplicação de heurísticas de UX e padrões de acessibilidade (WCAG) como critérios de aceitação no processo de QA.
+* **Dev-to-QA Bridge:** Facilitação da comunicação entre design e desenvolvimento, antecipando erros de lógica ainda na fase de prototipagem.
 
 ## 🟤 Conecte-se comigo
 
